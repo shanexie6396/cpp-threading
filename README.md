@@ -2,6 +2,13 @@
 
 A collection of small C++ programs to explore multithreading and concurrency.
 
+## 📚 Inspiration / Learning Source
+
+These examples are based on my self-study of multithreading in C++.  
+Much of the material was inspired by lessons from https://www.youtube.com/@MikeShah
+
+I built this repo to deepen my understanding through hands-on practice and personal understanding notes
+
 ## Topics Covered
 
 - `std::thread` and `.join()`
