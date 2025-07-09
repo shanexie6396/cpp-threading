@@ -20,6 +20,7 @@ I built this repo to deepen my understanding through hands-on practice and perso
 - 06 - using std::lock_gaurd to prevent dead lock
 - 07 - using std::atomic instead of mutex
 - 08 - sample threading ussage of a four color grid changing colors concurrently
+- 09 - using std::unique_lock to pair with std::condition_variable makes it possible for wait() to temporarily unlock and safely re-lock the mutex automatically, ensuring correct synchronization without busy waiting.
 
 ## Topics Covered
 
